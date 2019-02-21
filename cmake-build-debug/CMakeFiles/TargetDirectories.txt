@@ -1,0 +1,3 @@
+/home/marcel/CLionProjects/glSolarSystem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/marcel/CLionProjects/glSolarSystem/cmake-build-debug/CMakeFiles/glSolarSystem.dir
+/home/marcel/CLionProjects/glSolarSystem/cmake-build-debug/CMakeFiles/edit_cache.dir

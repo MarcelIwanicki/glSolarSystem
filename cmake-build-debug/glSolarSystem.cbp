@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="glSolarSystem"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/marcel/CLionProjects/glSolarSystem/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/marcel/CLionProjects/glSolarSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/marcel/CLionProjects/glSolarSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/marcel/CLionProjects/glSolarSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/marcel/CLionProjects/glSolarSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/marcel/CLionProjects/glSolarSystem/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/marcel/CLionProjects/glSolarSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/marcel/CLionProjects/glSolarSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/marcel/CLionProjects/glSolarSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/marcel/CLionProjects/glSolarSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="glSolarSystem">
+				<Option output="/home/marcel/CLionProjects/glSolarSystem/cmake-build-debug/glSolarSystem" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/marcel/CLionProjects/glSolarSystem/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/libdrm"/>
+					<Add directory="/usr/include/AL"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/marcel/CLionProjects/glSolarSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 glSolarSystem"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/marcel/CLionProjects/glSolarSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/marcel/CLionProjects/glSolarSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/marcel/CLionProjects/glSolarSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="glSolarSystem/fast">
+				<Option output="/home/marcel/CLionProjects/glSolarSystem/cmake-build-debug/glSolarSystem" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/marcel/CLionProjects/glSolarSystem/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/libdrm"/>
+					<Add directory="/usr/include/AL"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/marcel/CLionProjects/glSolarSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 glSolarSystem/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/marcel/CLionProjects/glSolarSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/marcel/CLionProjects/glSolarSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/marcel/CLionProjects/glSolarSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/marcel/CLionProjects/glSolarSystem/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/marcel/CLionProjects/glSolarSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/marcel/CLionProjects/glSolarSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/marcel/CLionProjects/glSolarSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/marcel/CLionProjects/glSolarSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/marcel/CLionProjects/glSolarSystem/example/test.cpp">
+			<Option target="glSolarSystem"/>
+		</Unit>
+		<Unit filename="/home/marcel/CLionProjects/glSolarSystem/lib/imgui/imconfig.h">
+			<Option target="glSolarSystem"/>
+		</Unit>
+		<Unit filename="/home/marcel/CLionProjects/glSolarSystem/lib/imgui/imgui.cpp">
+			<Option target="glSolarSystem"/>
+		</Unit>
+		<Unit filename="/home/marcel/CLionProjects/glSolarSystem/lib/imgui/imgui.h">
+			<Option target="glSolarSystem"/>
+		</Unit>
+		<Unit filename="/home/marcel/CLionProjects/glSolarSystem/lib/imgui/imgui_demo.cpp">
+			<Option target="glSolarSystem"/>
+		</Unit>
+		<Unit filename="/home/marcel/CLionProjects/glSolarSystem/lib/imgui/imgui_draw.cpp">
+			<Option target="glSolarSystem"/>
+		</Unit>
+		<Unit filename="/home/marcel/CLionProjects/glSolarSystem/lib/imgui/imgui_impl_glfw.cpp">
+			<Option target="glSolarSystem"/>
+		</Unit>
+		<Unit filename="/home/marcel/CLionProjects/glSolarSystem/lib/imgui/imgui_impl_glfw.h">
+			<Option target="glSolarSystem"/>
+		</Unit>
+		<Unit filename="/home/marcel/CLionProjects/glSolarSystem/lib/imgui/imgui_impl_opengl3.cpp">
+			<Option target="glSolarSystem"/>
+		</Unit>
+		<Unit filename="/home/marcel/CLionProjects/glSolarSystem/lib/imgui/imgui_impl_opengl3.h">
+			<Option target="glSolarSystem"/>
+		</Unit>
+		<Unit filename="/home/marcel/CLionProjects/glSolarSystem/lib/imgui/imgui_internal.h">
+			<Option target="glSolarSystem"/>
+		</Unit>
+		<Unit filename="/home/marcel/CLionProjects/glSolarSystem/lib/imgui/imgui_widgets.cpp">
+			<Option target="glSolarSystem"/>
+		</Unit>
+		<Unit filename="/home/marcel/CLionProjects/glSolarSystem/lib/imgui/imstb_rectpack.h">
+			<Option target="glSolarSystem"/>
+		</Unit>
+		<Unit filename="/home/marcel/CLionProjects/glSolarSystem/lib/imgui/imstb_textedit.h">
+			<Option target="glSolarSystem"/>
+		</Unit>
+		<Unit filename="/home/marcel/CLionProjects/glSolarSystem/lib/imgui/imstb_truetype.h">
+			<Option target="glSolarSystem"/>
+		</Unit>
+		<Unit filename="/home/marcel/CLionProjects/glSolarSystem/lib/stb_image/stb_image.cpp">
+			<Option target="glSolarSystem"/>
+		</Unit>
+		<Unit filename="/home/marcel/CLionProjects/glSolarSystem/lib/stb_image/stb_image.h">
+			<Option target="glSolarSystem"/>
+		</Unit>
+		<Unit filename="/home/marcel/CLionProjects/glSolarSystem/src/audio/AudioMaster.cpp">
+			<Option target="glSolarSystem"/>
+		</Unit>
+		<Unit filename="/home/marcel/CLionProjects/glSolarSystem/src/audio/AudioMaster.h">
+			<Option target="glSolarSystem"/>
+		</Unit>
+		<Unit filename="/home/marcel/CLionProjects/glSolarSystem/src/audio/AudioSource.cpp">
+			<Option target="glSolarSystem"/>
+		</Unit>
+		<Unit filename="/home/marcel/CLionProjects/glSolarSystem/src/audio/AudioSource.h">
+			<Option target="glSolarSystem"/>
+		</Unit>
+		<Unit filename="/home/marcel/CLionProjects/glSolarSystem/src/display/Display.cpp">
+			<Option target="glSolarSystem"/>
+		</Unit>
+		<Unit filename="/home/marcel/CLionProjects/glSolarSystem/src/display/Display.h">
+			<Option target="glSolarSystem"/>
+		</Unit>
+		<Unit filename="/home/marcel/CLionProjects/glSolarSystem/src/entity/Camera.cpp">
+			<Option target="glSolarSystem"/>
+		</Unit>
+		<Unit filename="/home/marcel/CLionProjects/glSolarSystem/src/entity/Camera.h">
+			<Option target="glSolarSystem"/>
+		</Unit>
+		<Unit filename="/home/marcel/CLionProjects/glSolarSystem/src/entity/Entity.cpp">
+			<Option target="glSolarSystem"/>
+		</Unit>
+		<Unit filename="/home/marcel/CLionProjects/glSolarSystem/src/entity/Entity.h">
+			<Option target="glSolarSystem"/>
+		</Unit>
+		<Unit filename="/home/marcel/CLionProjects/glSolarSystem/src/entity/Light.cpp">
+			<Option target="glSolarSystem"/>
+		</Unit>
+		<Unit filename="/home/marcel/CLionProjects/glSolarSystem/src/entity/Light.h">
+			<Option target="glSolarSystem"/>
+		</Unit>
+		<Unit filename="/home/marcel/CLionProjects/glSolarSystem/src/entity/Skybox.cpp">
+			<Option target="glSolarSystem"/>
+		</Unit>
+		<Unit filename="/home/marcel/CLionProjects/glSolarSystem/src/entity/Skybox.h">
+			<Option target="glSolarSystem"/>
+		</Unit>
+		<Unit filename="/home/marcel/CLionProjects/glSolarSystem/src/entity/Sphere.cpp">
+			<Option target="glSolarSystem"/>
+		</Unit>
+		<Unit filename="/home/marcel/CLionProjects/glSolarSystem/src/entity/Sphere.h">
+			<Option target="glSolarSystem"/>
+		</Unit>
+		<Unit filename="/home/marcel/CLionProjects/glSolarSystem/src/entity/planets/Earth.cpp">
+			<Option target="glSolarSystem"/>
+		</Unit>
+		<Unit filename="/home/marcel/CLionProjects/glSolarSystem/src/entity/planets/Earth.h">
+			<Option target="glSolarSystem"/>
+		</Unit>
+		<Unit filename="/home/marcel/CLionProjects/glSolarSystem/src/entity/planets/Jupiter.cpp">
+			<Option target="glSolarSystem"/>
+		</Unit>
+		<Unit filename="/home/marcel/CLionProjects/glSolarSystem/src/entity/planets/Jupiter.h">
+			<Option target="glSolarSystem"/>
+		</Unit>
+		<Unit filename="/home/marcel/CLionProjects/glSolarSystem/src/entity/planets/Mars.cpp">
+			<Option target="glSolarSystem"/>
+		</Unit>
+		<Unit filename="/home/marcel/CLionProjects/glSolarSystem/src/entity/planets/Mars.h">
+			<Option target="glSolarSystem"/>
+		</Unit>
+		<Unit filename="/home/marcel/CLionProjects/glSolarSystem/src/entity/planets/Mercury.cpp">
+			<Option target="glSolarSystem"/>
+		</Unit>
+		<Unit filename="/home/marcel/CLionProjects/glSolarSystem/src/entity/planets/Mercury.h">
+			<Option target="glSolarSystem"/>
+		</Unit>
+		<Unit filename="/home/marcel/CLionProjects/glSolarSystem/src/entity/planets/Neptune.cpp">
+			<Option target="glSolarSystem"/>
+		</Unit>
+		<Unit filename="/home/marcel/CLionProjects/glSolarSystem/src/entity/planets/Neptune.h">
+			<Option target="glSolarSystem"/>
+		</Unit>
+		<Unit filename="/home/marcel/CLionProjects/glSolarSystem/src/entity/planets/Saturn.cpp">
+			<Option target="glSolarSystem"/>
+		</Unit>
+		<Unit filename="/home/marcel/CLionProjects/glSolarSystem/src/entity/planets/Saturn.h">
+			<Option target="glSolarSystem"/>
+		</Unit>
+		<Unit filename="/home/marcel/CLionProjects/glSolarSystem/src/entity/planets/SaturnRings.cpp">
+			<Option target="glSolarSystem"/>
+		</Unit>
+		<Unit filename="/home/marcel/CLionProjects/glSolarSystem/src/entity/planets/SaturnRings.h">
+			<Option target="glSolarSystem"/>
+		</Unit>
+		<Unit filename="/home/marcel/CLionProjects/glSolarSystem/src/entity/planets/Sun.cpp">
+			<Option target="glSolarSystem"/>
+		</Unit>
+		<Unit filename="/home/marcel/CLionProjects/glSolarSystem/src/entity/planets/Sun.h">
+			<Option target="glSolarSystem"/>
+		</Unit>
+		<Unit filename="/home/marcel/CLionProjects/glSolarSystem/src/entity/planets/Uranus.cpp">
+			<Option target="glSolarSystem"/>
+		</Unit>
+		<Unit filename="/home/marcel/CLionProjects/glSolarSystem/src/entity/planets/Uranus.h">
+			<Option target="glSolarSystem"/>
+		</Unit>
+		<Unit filename="/home/marcel/CLionProjects/glSolarSystem/src/entity/planets/Venus.cpp">
+			<Option target="glSolarSystem"/>
+		</Unit>
+		<Unit filename="/home/marcel/CLionProjects/glSolarSystem/src/entity/planets/Venus.h">
+			<Option target="glSolarSystem"/>
+		</Unit>
+		<Unit filename="/home/marcel/CLionProjects/glSolarSystem/src/gui/Gui.cpp">
+			<Option target="glSolarSystem"/>
+		</Unit>
+		<Unit filename="/home/marcel/CLionProjects/glSolarSystem/src/gui/Gui.h">
+			<Option target="glSolarSystem"/>
+		</Unit>
+		<Unit filename="/home/marcel/CLionProjects/glSolarSystem/src/input/InputHandler.cpp">
+			<Option target="glSolarSystem"/>
+		</Unit>
+		<Unit filename="/home/marcel/CLionProjects/glSolarSystem/src/input/InputHandler.h">
+			<Option target="glSolarSystem"/>
+		</Unit>
+		<Unit filename="/home/marcel/CLionProjects/glSolarSystem/src/main/SolarSystem.cpp">
+			<Option target="glSolarSystem"/>
+		</Unit>
+		<Unit filename="/home/marcel/CLionProjects/glSolarSystem/src/main/SolarSystem.h">
+			<Option target="glSolarSystem"/>
+		</Unit>
+		<Unit filename="/home/marcel/CLionProjects/glSolarSystem/src/model/Loader.cpp">
+			<Option target="glSolarSystem"/>
+		</Unit>
+		<Unit filename="/home/marcel/CLionProjects/glSolarSystem/src/model/Loader.h">
+			<Option target="glSolarSystem"/>
+		</Unit>
+		<Unit filename="/home/marcel/CLionProjects/glSolarSystem/src/model/OBJLoader.cpp">
+			<Option target="glSolarSystem"/>
+		</Unit>
+		<Unit filename="/home/marcel/CLionProjects/glSolarSystem/src/model/OBJLoader.h">
+			<Option target="glSolarSystem"/>
+		</Unit>
+		<Unit filename="/home/marcel/CLionProjects/glSolarSystem/src/model/RawModel.cpp">
+			<Option target="glSolarSystem"/>
+		</Unit>
+		<Unit filename="/home/marcel/CLionProjects/glSolarSystem/src/model/RawModel.h">
+			<Option target="glSolarSystem"/>
+		</Unit>
+		<Unit filename="/home/marcel/CLionProjects/glSolarSystem/src/model/TexturedModel.cpp">
+			<Option target="glSolarSystem"/>
+		</Unit>
+		<Unit filename="/home/marcel/CLionProjects/glSolarSystem/src/model/TexturedModel.h">
+			<Option target="glSolarSystem"/>
+		</Unit>
+		<Unit filename="/home/marcel/CLionProjects/glSolarSystem/src/render/Renderer.cpp">
+			<Option target="glSolarSystem"/>
+		</Unit>
+		<Unit filename="/home/marcel/CLionProjects/glSolarSystem/src/render/Renderer.h">
+			<Option target="glSolarSystem"/>
+		</Unit>
+		<Unit filename="/home/marcel/CLionProjects/glSolarSystem/src/shader/PlanetShader.cpp">
+			<Option target="glSolarSystem"/>
+		</Unit>
+		<Unit filename="/home/marcel/CLionProjects/glSolarSystem/src/shader/PlanetShader.h">
+			<Option target="glSolarSystem"/>
+		</Unit>
+		<Unit filename="/home/marcel/CLionProjects/glSolarSystem/src/shader/RegularShader.cpp">
+			<Option target="glSolarSystem"/>
+		</Unit>
+		<Unit filename="/home/marcel/CLionProjects/glSolarSystem/src/shader/RegularShader.h">
+			<Option target="glSolarSystem"/>
+		</Unit>
+		<Unit filename="/home/marcel/CLionProjects/glSolarSystem/src/shader/Shader.cpp">
+			<Option target="glSolarSystem"/>
+		</Unit>
+		<Unit filename="/home/marcel/CLionProjects/glSolarSystem/src/shader/Shader.h">
+			<Option target="glSolarSystem"/>
+		</Unit>
+		<Unit filename="/home/marcel/CLionProjects/glSolarSystem/src/shader/SunShader.cpp">
+			<Option target="glSolarSystem"/>
+		</Unit>
+		<Unit filename="/home/marcel/CLionProjects/glSolarSystem/src/shader/SunShader.h">
+			<Option target="glSolarSystem"/>
+		</Unit>
+		<Unit filename="/home/marcel/CLionProjects/glSolarSystem/src/texture/Texture.cpp">
+			<Option target="glSolarSystem"/>
+		</Unit>
+		<Unit filename="/home/marcel/CLionProjects/glSolarSystem/src/texture/Texture.h">
+			<Option target="glSolarSystem"/>
+		</Unit>
+		<Unit filename="/home/marcel/CLionProjects/glSolarSystem/src/util/Constants.h">
+			<Option target="glSolarSystem"/>
+		</Unit>
+		<Unit filename="/home/marcel/CLionProjects/glSolarSystem/src/util/Math.cpp">
+			<Option target="glSolarSystem"/>
+		</Unit>
+		<Unit filename="/home/marcel/CLionProjects/glSolarSystem/src/util/Math.h">
+			<Option target="glSolarSystem"/>
+		</Unit>
+		<Unit filename="/home/marcel/CLionProjects/glSolarSystem/src/util/Res.h">
+			<Option target="glSolarSystem"/>
+		</Unit>
+		<Unit filename="/home/marcel/CLionProjects/glSolarSystem/src/util/Util.cpp">
+			<Option target="glSolarSystem"/>
+		</Unit>
+		<Unit filename="/home/marcel/CLionProjects/glSolarSystem/src/util/Util.h">
+			<Option target="glSolarSystem"/>
+		</Unit>
+		<Unit filename="/home/marcel/CLionProjects/glSolarSystem/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
