@@ -59,7 +59,7 @@ Made with CLion.
 
 ## Author
 
-* **Marcel Iwanicki** - *Initial work* - [Estebanan](https://github.com/Estebanan)
+* **Marcel Iwanicki** - *Initial work* - [MarcelIwanicki](https://github.com/MarcelIwanicki)
 
 ## License
 
