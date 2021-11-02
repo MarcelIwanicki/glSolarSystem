@@ -1,7 +1,5 @@
 # glSolarSystem
 
-## Important!
-
 To make application work, you need to download this res.tar.gz file :
 https://ufile.io/76lfk
 
@@ -13,16 +11,16 @@ This is because github didn't accept files as big.
 
 ## Screenshots
 
-![alt text](https://github.com/Estebanan/glSolarSystem/blob/master/screenshots/Screenshot%202019-02-21%2012:49:37.png)
-![alt text](https://github.com/Estebanan/glSolarSystem/blob/master/screenshots/Screenshot%202019-02-21%2012:50:26.png)
-![alt text](https://github.com/Estebanan/glSolarSystem/blob/master/screenshots/Screenshot%202019-02-21%2012:50:42.png)
-![alt text](https://github.com/Estebanan/glSolarSystem/blob/master/screenshots/Screenshot%202019-02-21%2012:51:27.png)
-![alt text](https://github.com/Estebanan/glSolarSystem/blob/master/screenshots/Screenshot%202019-02-21%2012:52:02.png)
-![alt text](https://github.com/Estebanan/glSolarSystem/blob/master/screenshots/Screenshot%202019-02-21%2012:52:21.png)
+![alt text](screenshots/Screenshot%202019-02-21%2012:49:37.png)
+![alt text](screenshots/Screenshot%202019-02-21%2012:50:26.png)
+![alt text](screenshots/Screenshot%202019-02-21%2012:50:42.png)
+![alt text](screenshots/Screenshot%202019-02-21%2012:51:27.png)
+![alt text](screenshots/Screenshot%202019-02-21%2012:52:02.png)
+![alt text](screenshots/Screenshot%202019-02-21%2012:52:21.png)
 
 ## Prerequisites
 
-1. As said before, downloaded res.tar.gz
+1. Downloaded resources - res.tar.gz
 2. Linux distro to launch binary (./cmake-build-debug/glSolarSystem)
 
 [TO COMPILE CODE]
